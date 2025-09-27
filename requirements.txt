@@ -1,0 +1,29 @@
+# Core
+kafka-python
+
+# Data handling
+pandas
+numpy
+
+# ML / Anomaly Detection
+scikit-learn
+statsmodels
+torch
+tensorflow
+pytorch-lightning
+
+# Visualization / Dashboards
+matplotlib
+seaborn
+plotly
+streamlit
+
+# Explainability & Causal
+shap
+lime
+dowhy
+causalnex
+
+# Orchestration / Utilities
+pydantic
+fastapi
