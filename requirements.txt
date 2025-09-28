@@ -3,7 +3,8 @@ kafka-python
 
 # Data handling
 pandas
-numpy
+numpy==1.23.5
+
 
 # ML / Anomaly Detection
 scikit-learn
